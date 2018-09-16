@@ -1,2 +1,0 @@
-# ExampleRedditAPI
-Created with CodeSandbox
